@@ -1,0 +1,23 @@
+{
+    "name": "rozeo/class-interceptors",
+    "description": "intercept class call",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rozeo\\ClassInterceptors\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rozeo",
+            "email": "st.prog0908@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.2.0"
+    }
+}
